@@ -1,0 +1,22 @@
+.form-control,
+.input-group-text {
+  background-color: #f0f5ff;
+}
+.nav-item {
+  display: flex;
+  align-items: center;
+  gap: 7%;
+  margin-right: 50px;
+}
+.d-flex {
+  width: 60%;
+}
+header {
+  margin-bottom: 10px;
+}
+.input-group-text {
+  border-right-style: none;
+}
+.form-control {
+  border-left-style: none;
+}

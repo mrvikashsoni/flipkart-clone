@@ -1,0 +1,8 @@
+.container-fluid {
+  max-width: 1500px;
+}
+.img-adj {
+  /* max-height: 700px !important; */
+  min-width: 100px;
+  padding: 10px;
+}

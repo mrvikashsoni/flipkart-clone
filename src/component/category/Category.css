@@ -1,0 +1,22 @@
+.container {
+  max-width: 1500px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.col {
+  padding-left: 0;
+  padding-right: 0;
+}
+.imgs {
+  width: 45%;
+}
+section {
+  margin-bottom: 15px;
+}
+.col-div p,
+.col-div a {
+  font-weight: 500;
+}
+/* .col-div {
+  width: 10%;
+} */

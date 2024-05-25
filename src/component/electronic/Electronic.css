@@ -1,0 +1,13 @@
+.container-fluid {
+  max-width: 1500px;
+}
+.img-adj {
+  min-height: 200px;
+  padding: 10px;
+}
+
+@media screen and (max-width: 1200px) {
+  .flightAds {
+    display: none;
+  }
+}

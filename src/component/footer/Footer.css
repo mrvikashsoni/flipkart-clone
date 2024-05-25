@@ -1,0 +1,21 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.sub_foot_tittle {
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 300;
+  text-transform: uppercase;
+  text-align: start;
+}
+li a,
+address {
+  color: white;
+  font-weight: 400;
+}
+.last-text {
+  font-weight: 300;
+  font-size: medium;
+}
